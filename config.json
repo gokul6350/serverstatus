@@ -1,10 +1,10 @@
 {
 	
-	"prefix": ".",
+	"prefix": ".", //besure to subscribe my channel youtube.com/gbgamingyt
 	"command": "ip",
-	"token": "    ",
-	"defaultIP": "bonfirenetwork.tk",
-	"serverName": "Bonfire Network ",
+	"token": "    ", //put your bot token here 
+	"defaultIP": "bonfirenetwork.tk", // ip here
+	"serverName": "Bonfire Network ", // change the name of the server
 	"serverUrl": "http://bonfirenetwork.ml/",
 	"serverLogo": "https://i.imgur.com/5xRCtrF.png"
 }
