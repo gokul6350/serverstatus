@@ -1,0 +1,10 @@
+{
+	
+	"prefix": ".",
+	"command": "ip",
+	"token": "    ",
+	"defaultIP": "bonfirenetwork.tk",
+	"serverName": "Bonfire Network ",
+	"serverUrl": "http://bonfirenetwork.ml/",
+	"serverLogo": "https://i.imgur.com/5xRCtrF.png"
+}
